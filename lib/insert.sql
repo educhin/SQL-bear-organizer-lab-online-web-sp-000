@@ -6,10 +6,4 @@ INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES ("Meliss
 INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES ("Grinch", 14, "M", "black", "Sweet", 0);
 INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES ("Wendy", 13, "F", "brown", "Sweet", 0);
 INSERT INTO bears (age, gender, color, temperamant, alive) VALUES (15, "M", "white", "dangerous", 1);
-Mr. Chocolate
-Rowdy
-Tabitha
-Sergeant Brown
-Melissa
-Grinch
-Wendy
+
