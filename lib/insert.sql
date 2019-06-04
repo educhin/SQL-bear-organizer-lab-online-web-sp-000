@@ -5,7 +5,7 @@ INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES ("Sergea
 INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES ("Melissa", 3, "F", "dark brown", "anxious", 0);
 INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES ("Grinch", 14, "M", "black", "Sweet", 0);
 INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES ("Wendy", 13, "F", "brown", "Sweet", 0);
-INSERT INTO bears (name, age, gender, color, temperamant, alive) VALUES (NULL, 15, "M", "white", "dangerous", 1);
+INSERT INTO bears (age, gender, color, temperamant, alive) VALUES (15, "M", "white", "dangerous", 1);
 Mr. Chocolate
 Rowdy
 Tabitha
